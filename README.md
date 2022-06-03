@@ -8,4 +8,4 @@ Available pages:
   - <a href="https://jorgerodrigo481516.github.io/calculadora-simples/">Calculadora Simples</a>
 
 <br><br>
-Obs.: O website ainda está em fase de construção/escolha de Design.
+Note: The website is still under construction/design phase.
