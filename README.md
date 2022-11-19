@@ -2,6 +2,7 @@
 
   <strong>Available pages:</strong>
   <ul> 
+    <li><a href="https://jorgerodrigo481516.github.io/blog-rblandia/">Rblandia</a></li>
     <li><a href="https://jorgerodrigo481516.github.io/digital-business-card/">Digital Business Card</a></li>
     <li><a href="https://jorgerodrigo481516.github.io/rachi/">Rachi</a></li>
     <li><a href="https://jorgerodrigo481516.github.io/loja-rb-shoes/">Loja RB Shoes</a></li>
